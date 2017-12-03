@@ -1,0 +1,8 @@
+Log notice stdout
+
+SocksPort 0.0.0.0:9050
+ 
+RunAsDaemon 0
+User tor
+
+DataDirectory /var/lib/tor
